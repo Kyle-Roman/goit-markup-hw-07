@@ -2,13 +2,14 @@
   padding-top: var(--section-pt);
   padding-bottom: var(--section-pb);
 }
-.examples-list {
+
+.examples-nav-list {
   display: flex;
   justify-content: center;
   margin-bottom: 50px;
 }
 
-.examples-list-item {
+.examples-nav-list-item {
   &:not(:last-child) {
     margin-right: 8px;
   }
