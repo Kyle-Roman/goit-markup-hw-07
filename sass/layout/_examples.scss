@@ -3,13 +3,13 @@
   padding-bottom: var(--section-pb);
 }
 
-.examples-nav-list {
+.examples-list {
   display: flex;
   justify-content: center;
   margin-bottom: 50px;
 }
 
-.examples-nav-list-item {
+.examples-list-item {
   &:not(:last-child) {
     margin-right: 8px;
   }
